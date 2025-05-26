@@ -49,5 +49,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
     //implementation files('libs\\devicecollector-sdk-2.5.jar')
     implementation files('libs\\kount-data-collector-3.2.jar')
-    // implementation 'com.github.paymentez:paymentez-android:ecuador-c00b56f351-1'
+     implementation 'com.github.paymentez:paymentez-android:ecuador-c00b56f351-1'
 }
