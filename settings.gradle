@@ -1,0 +1,2 @@
+include ':example', ':paymentez-android'
+rootProject.name ='com.paymentez.android'
